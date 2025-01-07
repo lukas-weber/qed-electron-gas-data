@@ -1,0 +1,32 @@
+authors:
+- affiliation: Simons Foundation
+  family-names: Lukas Weber
+  orcid: 0000-0003-4949-5529
+- family-names: Morales
+  given-names: Miguel A.
+  orcid: 0000-0002-6389-3067
+- family-names: Flick
+  given-names: Johannes
+  orcid: 0000-0003-0273-7797
+- family-names: Zhang
+  given-names: Shiwei
+  orcid: 0000-0001-9635-170X
+- family-names: Rubio
+  given-names: Angel
+  orcid: 0000-0003-2060-3151
+cff-version: 1.2.0
+date-released: '2025-01-07'
+doi: 10.5281/zenodo.14611191
+identifiers:
+- type: swh
+  value: swh:1:dir:305350d890dda7c805b57090dc83ecd2f169f995;origin=https://doi.org/10.5281/zenodo.14611190;visit=swh:1:snp:2f4827a922f911a1ab414c35d8645823755e60dc;anchor=swh:1:rel:08fcce15056b2ce7cfbd9189f5ec6bf3712e53b4;path=lukas-weber-qed-electron-gas-data-4227b18
+keywords:
+- gemet:concept/6235
+- Physics
+- Cavity QED
+- Electron Gas
+license:
+- cc-by-4.0
+title: 'lukas-weber/qed-electron-gas-data: v1.0.0'
+type: dataset
+version: v1.0.0
