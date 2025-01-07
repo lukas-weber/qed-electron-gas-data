@@ -1,4 +1,6 @@
 # The light-matter correlation energy functional of the cavity-coupled two-dimensional electron gas via quantum Monte Carlo simulations
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14611191.svg)](https://doi.org/10.5281/zenodo.14611191)
+
 
 This is the data repository for our paper [The light-matter correlation energy functional of the cavity-coupled two-dimensional electron gas via quantum Monte Carlo simulations](https://doi.org/10.48550/arXiv.2412.19222).
 
